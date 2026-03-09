@@ -62,6 +62,7 @@ int main(int argc, char* argv[])
     free(data);
 
     LOG_MSG("main(): freed allocated storage\n");
+    LOG_MSG("main(): I love progrmnagim\n");
 
     printf("Sum of values = %ld\n", sum);
 
